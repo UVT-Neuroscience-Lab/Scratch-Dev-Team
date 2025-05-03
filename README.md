@@ -10,4 +10,4 @@ What sets **Guitar Thinker** apart is its control method: instead of using a tra
 
 - 🎶 Rhythm gameplay inspired by *Guitar Hero*  
 - 🌈 Color-based input system using imaginative play  
-- 🦄 Integration with the Unicorn Hybrid Black interface  
+- 🦄 Integration with the Unicorn Hybrid Black interface
